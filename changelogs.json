@@ -1,0 +1,19 @@
+{
+  "releases": [
+    {
+      "version": "1.1.0",
+      "date": "2026-05-26",
+      "changes": [
+        "Added a dedicated 'Updates & Changelog' screen.",
+        "Integrated custom fonts including Gilroy globally.",
+        "In-app update checks now fetch directly from GitHub Releases API."
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "changes": [
+        "Initial release of the Event Desk Android application."
+      ]
+    }
+  ]
+}
