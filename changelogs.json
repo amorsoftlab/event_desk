@@ -1,8 +1,42 @@
 {
   "releases": [
     {
-      "version": "1.1.0",
-      "date": "2026-05-26",
+      "version": "1.4.1",
+      "date": "2026-05-28",
+      "changes": [
+        "✨ Add Booking Screen simplified: Date & Client info are now smoothly combined on the first screen.",
+        "📊 Dashboard now shows live monthly booking trends compared to the previous month.",
+        "🎨 Polished UI colors: Removed unexpected grey backgrounds in Dashboard and Account screens for a cleaner look.",
+        "🚀 Fixed app splash screen logo clipping on Android 12+ devices.",
+        "📱 App Launcher icon updated to ensure consistency."
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "date": "2026-05-28",
+      "changes": [
+        "✨ Combined client details and event selection into a single simplified screen.",
+        "📍 Added a mandatory 'Place' field under client details to capture location info.",
+        "🎨 Redesigned confirm booking screen into sleek 2-column glass-morphism cards.",
+        "💬 Directly launch WhatsApp after booking confirmation without separate popups.",
+        "✨ Fully integrated custom full-color icons (Wedding, Nikkah, Engagement, Bride, Groom, Ring).",
+        "📱 Optimized spacing and layouts across dialogs to prevent scrolling on standard screens."
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "date": "2026-05-27",
+      "changes": [
+        "✨ Never miss an alert! Notifications are now safely saved even after you close the app.",
+        "🚀 Tap and go: Clicking a notification now takes you directly to the right screen.",
+        "🎨 Enjoy a smoother, visually pleasing animation when pulling to refresh the dashboard.",
+        "✨ Upgraded the bottom menu with a fresh new interactive bounce effect.",
+        "🛠️ Improved reliability and fixed minor bugs when checking for new app updates."
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "date": "2026-05-27",
       "changes": [
         "Added a dedicated 'Updates & Changelog' screen.",
         "Integrated custom fonts including Gilroy globally.",
