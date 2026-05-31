@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "version": "1.5.10",
+      "date": "2026-05-31",
+      "changes": [
+        "🔒 Introduced App Lock feature using device screen credentials (PIN, Pattern, or Biometrics).",
+        "⚙️ Configurable auto-lock timeout options (Immediately, 15 seconds, 1 minute, 5 minutes, 15 minutes).",
+        "💡 Smart Setup Prompt to remind users to enable App Lock for data security, with direct settings navigation.",
+        "🌐 Added official developer website (amorsoftlab.github.io) in About Developers section.",
+        "📱 Restructured and fixed splash screen layout, resolving stretched logo and hidden loading indicators on APK/mobile.",
+        "🛠️ Fixed Firebase App Check startup crash on non-supported desktop platforms (like Windows)."
+      ]
+    },
+    {
       "version": "1.5.0",
       "date": "2026-05-31",
       "changes": [
