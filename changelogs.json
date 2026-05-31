@@ -1,6 +1,18 @@
 {
   "releases": [
     {
+      "version": "1.5.0",
+      "date": "2026-05-31",
+      "changes": [
+        "📅 Redesigned Slot Availability calendar with rounded cells, custom badges, and border-less layout.",
+        "✨ Toggle options to show Hijri and Malayalam dates inside calendar cells.",
+        "🔍 Clicking a booked date now displays its booking details below the calendar with quick navigation.",
+        "📤 Sharing calendar image now includes the heading, calendar, legend, and white borders to avoid cropping.",
+        "🔄 Interactive Updates checker with a beautiful phone-to-cloud data sync animation.",
+        "🛠️ Fixed calendar days-of-week header layout overflows and restored Back Button visibility on the About Developers page."
+      ]
+    },
+    {
       "version": "1.4.1",
       "date": "2026-05-28",
       "changes": [
