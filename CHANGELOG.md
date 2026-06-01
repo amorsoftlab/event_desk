@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.5.60] - 2026-06-01
+- Disabled automatic update popups on app launch; updates now appear in the Notifications Panel.
+- Redesigned Updates Screen layout for a smoother scrolling experience.
+- In-App Update now automatically detects device architecture and downloads the correct split APK.
+- Build scripts updated to support and publish ABI-specific split APKs.
+
 ## [1.5.30+1] - 2026-06-01
 - Redesigned splash screen and integrated a dynamic intro video.
 - Fixed navigation error and white screen issue during phone authentication.
