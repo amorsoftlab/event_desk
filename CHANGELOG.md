@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.5.20+1] - 2026-06-01
+## [1.5.30+1] - 2026-06-01
 - Redesigned splash screen and integrated a dynamic intro video.
 - Fixed navigation error and white screen issue during phone authentication.
 - Removed loading delay when sending OTPs for instant user feedback.
