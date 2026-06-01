@@ -4,10 +4,10 @@
       "version": "1.5.60",
       "date": "2026-06-01",
       "changes": [
-        "🔄 Disabled automatic update popups on app launch; updates now appear in the Notifications Panel.",
-        "📱 Redesigned Updates Screen layout for a smoother scrolling experience.",
-        "🤖 In-App Update now automatically detects device architecture and downloads the correct split APK.",
-        "⚙️ Build scripts updated to support and publish ABI-specific split APKs."
+        "Disabled automatic update popups on app launch; updates now appear in the Notifications Panel.",
+        "Redesigned Updates Screen layout for a smoother scrolling experience.",
+        "In-App Update now automatically detects device architecture and downloads the correct split APK.",
+        "Build scripts updated to support and publish ABI-specific split APKs."
       ]
     },
     {
