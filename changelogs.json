@@ -1,6 +1,17 @@
 {
   "releases": [
     {
+      "version": "1.5.63",
+      "date": "2026-06-01",
+      "changes": [
+        "📉 Massive App Size Reduction: Removed heavy unused video files and redundant font assets, reducing app size by over 50MB.",
+        "✨ Faster Splash Screen: Replaced 10s video with a smooth 3-second animated GIF.",
+        "📱 UI Improvements: Customer Details screen buttons now seamlessly open Phone Dialer, SMS app, and WhatsApp.",
+        "🔔 Notification Fixes: Resolved an issue hiding update notifications. Notification badges now persist until manually cleared, and tapping a notification safely removes it.",
+        "🐛 Bug Fix: Resolved the white loading screen issue when pulling down to refresh the Dashboard."
+      ]
+    },
+    {
       "version": "1.5.60",
       "date": "2026-06-01",
       "changes": [
