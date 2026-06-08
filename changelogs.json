@@ -1,6 +1,13 @@
 {
   "releases": [
     {
+      "version": "1.5.75",
+      "date": "2026-06-05",
+      "changes": [
+        "🐛 Bug Fix: Resolved an issue in the Add Booking screen where the dialog incorrectly asked for Client Details on the Event Selection step."
+      ]
+    },
+    {
       "version": "1.5.63",
       "date": "2026-06-01",
       "changes": [
